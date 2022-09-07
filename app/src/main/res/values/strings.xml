@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizActivity</string>
+    <string name="n_pregunta">Question</string>
+    <string name="contenidoPregunta">¿?</string>
+    <string name="check" >Check</string>
+    <string name="question_content">What is the capital of Mexico</string>
+
+    <string name="respuestaBien" >Excellent!</string>
+    <string name="respuestaMal" >Incorrect</string>
+    <string name="sinRespuesta">Choose an answer please</string>
+
+    <array name="answers" >
+        <item>Esta no es</item>
+        <item>Esta tampoco</item>
+        <item>Ciudad de México</item>
+        <item>Regresa a la anterio</item>
+    </array>
+
+    <integer name="correct_answer" >2</integer>
+
+</resources>

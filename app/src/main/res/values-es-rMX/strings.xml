@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizActivity</string>
+    <string name="n_pregunta">Pregunta</string>
+    <string name="contenidoPregunta">¿?</string>
+    <string name="check">Comprobar</string>
+    <string name="question_content">¿Cuál es la capital de México?</string>
+
+    <string name="respuestaBien" >Excelente</string>
+    <string name="respuestaMal" >Incorrecto</string>
+    <string name="sinRespuesta">Selecciona una respuesta</string>
+
+</resources>
